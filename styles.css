@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	border:2px solid;
+	justify-content:center;
+}
+#item{
+	border:1px solid red;
+}
